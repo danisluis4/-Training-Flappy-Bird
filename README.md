@@ -10,10 +10,7 @@
 - [ ]
 - [ ]
 - [ ]
-## Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-This site was built using README.md [Tutorial](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings).
+## -------------------------------------------------------
+> - **lorence_impl_make_spirit**
+- [x] Create new folder with name *LorenceCreateAssetsFolder*
+- 

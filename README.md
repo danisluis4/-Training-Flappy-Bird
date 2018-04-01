@@ -13,4 +13,5 @@
 ## -------------------------------------------------------
 > - **lorence_impl_make_spirit**
 - [x] Create new folder with name *LorenceCreateAssetsFolder*
+- [x] Import New Asset at position[Mouse click on *LorenceCreateAssetsFolder*]
 - 

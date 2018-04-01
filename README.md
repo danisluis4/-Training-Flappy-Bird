@@ -36,4 +36,5 @@ Image for description
       }
     }
 
+![alt text](https://github.com/danisluis4/Training-Flappy-Bird/blob/Training-Game-Basic/Training/1.png)
 >> - One case: You don't attach TargetBird to Camera. What happens with it?

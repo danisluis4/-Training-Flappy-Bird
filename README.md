@@ -18,5 +18,22 @@
 - [x] It's done
 - [ ] ... Continue in the feature
 Image for description
+## --------------------------------------------------------------------------------------------
+> - **Observe position of *Camera***
+>> - There are two cases here:
 
+    public class CameraController : MonoBehaviour {
 
+      public Transform targetBird;
+      public float positionCamera;
+      public float positionTargetBird;
+
+      // Update is called once per frame
+      void Update () {
+        positionCamera = this.transform.position.x;
+        positionTargetBird = targetBird.position.x;
+        this.transform.position = new Vector3 (targetBird.position.x,0,-10);
+      }
+    }
+
+>> - One case: You don't attach TargetBird to Camera. What happens with it?
